@@ -1,0 +1,19 @@
+{
+  "name": "modulo8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no encontre un test asociado\" && exit 1",
+    "start": "node index.js",
+    "cualquiercosa":"node greeter.js",
+    "dev": "",
+    "build": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
